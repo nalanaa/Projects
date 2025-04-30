@@ -1,0 +1,35 @@
+# Zero Waste Advocacy Website 🌱
+
+A clean, responsive site built with HTML, CSS, and JavaScript to raise awareness about limiting waste through a testimonial video and a petition sign-up sheet.
+
+---
+
+## Overview
+
+This advocacy project highlights the importance of zero-waste practices by:
+
+- **Showing real-world impact** through a testimonial video  
+- **Inviting visitors to take action** via a petition sign-up sheet  
+
+---
+
+## Features
+
+1. **Testimonial Video Section**  
+   - Embeds a short video featuring advocates sharing their zero-waste journeys.  
+   - Responsive container adapts to any screen size.
+
+2. **Petition Sign-Up Sheet**  
+   - A JavaScript-powered form that collects names and email addresses.  
+   - Basic validation to ensure fields aren’t empty.  
+   - Displays a running list of supporters on the page.
+
+---
+
+## Tech Stack
+
+- **HTML5** for structure  
+- **CSS3** (Flexbox & Grid) for responsive layouts  
+- **Vanilla JavaScript** for form handling and dynamic list updates  
+
+---

@@ -60,9 +60,6 @@ A responsive front-end site promoting zero-waste practices, featuring a petition
 ---
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📨 [Email](mailto:email@example.com)  
+- 🔗 [LinkedIn](www.linkedin.com/in/nalan-annadurai)  
 
 ---
-
-> “Data is the new oil, and AI is the engine that refines it.”  
